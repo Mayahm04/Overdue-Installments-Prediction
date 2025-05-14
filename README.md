@@ -1,4 +1,3 @@
-# Overdue-Installments-Prediction
 # Overdue Installments Prediction
 
 This repository contains a Jupyter notebook (`overdue.ipynb`) for predicting the number of overdue installments (`Nombre d’échéance en retard`) based on customer and loan attributes. The analysis includes data preprocessing, feature engineering, multiple regression models, evaluation metrics, and output submission generation.
